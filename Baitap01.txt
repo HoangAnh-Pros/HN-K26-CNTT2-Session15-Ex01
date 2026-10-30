@@ -1,0 +1,11 @@
+Bài 1 : Hệ thống Quản lý Tài liệu Dự án Doanh nghiệp
+*Vấn đề :Nhóm của bạn đang thực hiện dự án Số hóa Bảo tàng PTIT. Bạn A chịu trách nhiệm thiết kế 3D các hiện vật. Do thói quen lưu trên local mà hiện tại file bị hirng . Cùng với việc link file zalo đã hết hạn tải về
+*Yêu cầu: - Báo cáo phân tích: Sơ đồ luồng dữ liệu từ Local SSD lên Cloud và cách hệ thống xử lý khi có xung đột phiên bản (File Version Conflict).
+          - Quy trình thực thi: Danh sách 3 bước thiết lập phần mềm đồng bộ chuẩn cho một Designer.
+*Các bước làm:
+-Sơ đồ luồn dữ liệu từ local SSD lên cloud:
+-->SSD --> GOOGLE DRIVE FOR DESKTop(ADD FOLDER)-->SYNC WITH GOOGLE DRIVE-->CLOUD
+-3 Bước thiết lập đồng bộ dữ liệu
+     B 1:tải google dive for desktop
+     B 2:đăng nhập tài khoản
+     B 3:add folder --> chọn synchronus with google drive
